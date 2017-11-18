@@ -1,5 +1,5 @@
 *.class
 *.log
 .DS_Store
-donations/target/
-donations/.idea/
+target/
+.idea/

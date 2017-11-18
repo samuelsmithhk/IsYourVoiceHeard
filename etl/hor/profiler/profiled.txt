@@ -1,0 +1,724 @@
+Members fullnames: 
+
+"Abraham, Ralph Lee"
+"Adams, Alma S."
+"Aderholt, Robert B."
+"Aguilar, Pete"
+"Allen, Rick W."
+"Amash, Justin"
+"Amodei, Mark E."
+"Arrington, Jodey C."
+"Babin, Brian"
+"Bacon, Don"
+"Banks, Jim"
+"Barletta, Lou"
+"Barr, Andy"
+"Barragán, Nanette Diaz"
+"Barton, Joe"
+"Bass, Karen"
+"Beatty, Joyce"
+"Bera, Ami"
+"Bergman, Jack"
+"Beyer, Donald S., Jr."
+"Biggs, Andy"
+"Bilirakis, Gus M."
+"Bishop, Mike"
+"Bishop, Rob"
+"Bishop, Sanford D., Jr."
+"Black, Diane"
+"Blackburn, Marsha"
+"Blum, Rod"
+"Blumenauer, Earl"
+"Blunt Rochester, Lisa"
+"Bonamici, Suzanne"
+"Bordallo, Madeleine Z."
+"Bost, Mike"
+"Boyle, Brendan F."
+"Brady, Kevin"
+"Brady, Robert A."
+"Brat, Dave"
+"Bridenstine, Jim"
+"Brooks, Mo"
+"Brooks, Susan W."
+"Brown, Anthony G."
+"Brownley, Julia"
+"Buchanan, Vern"
+"Buck, Ken"
+"Bucshon, Larry"
+"Budd, Ted"
+"Burgess, Michael C."
+"Bustos, Cheri"
+"Butterfield, G. K."
+"Byrne, Bradley"
+"Calvert, Ken"
+"Capuano, Michael E."
+"Carbajal, Salud O."
+"Cárdenas, Tony"
+"Carson, André"
+"Carter, Earl L. ""Buddy"""
+"Carter, John R."
+"Cartwright, Matt"
+"Castor, Kathy"
+"Castro, Joaquin"
+"Chabot, Steve"
+"Cheney, Liz"
+"Chu, Judy"
+"Cicilline, David N."
+"Clark, Katherine M."
+"Clarke, Yvette D."
+"Clay, Wm. Lacy"
+"Cleaver, Emanuel"
+"Clyburn, James E."
+"Coffman, Mike"
+"Cohen, Steve"
+"Cole, Tom"
+"Collins, Chris"
+"Collins, Doug"
+"Comer, James"
+"Comstock, Barbara"
+"Conaway, K. Michael"
+"Connolly, Gerald E."
+"Conyers, John, Jr."
+"Cook, Paul"
+"Cooper, Jim"
+"Correa, J. Luis"
+"Costa, Jim"
+"Costello, Ryan A."
+"Courtney, Joe"
+"Cramer, Kevin"
+"Crawford, Eric A. ""Rick"""
+"Crist, Charlie"
+"Crowley, Joseph"
+"Cuellar, Henry"
+"Culberson, John Abney"
+"Cummings, Elijah E."
+"Curbelo, Carlos"
+"Curtis, John R."
+"Davidson, Warren"
+"Davis, Danny K."
+"Davis, Rodney"
+"Davis, Susan A."
+"DeFazio, Peter A."
+"DeGette, Diana"
+"Delaney, John K."
+"DeLauro, Rosa L."
+"DelBene, Suzan K."
+"Demings, Val Butler"
+"Denham, Jeff"
+"Dent, Charles W."
+"DeSantis, Ron"
+"DeSaulnier, Mark"
+"DesJarlais, Scott"
+"Deutch, Theodore E."
+"Diaz-Balart, Mario"
+"Dingell, Debbie"
+"Doggett, Lloyd"
+"Donovan, Daniel M., Jr."
+"Doyle, Michael F."
+"Duffy, Sean P."
+"Duncan, Jeff"
+"Duncan, John J., Jr."
+"Dunn, Neal P."
+"Ellison, Keith"
+"Emmer, Tom"
+"Engel, Eliot L."
+"Eshoo, Anna G."
+"Espaillat, Adriano"
+"Estes, Ron"
+"Esty, Elizabeth H."
+"Evans, Dwight"
+"Farenthold, Blake"
+"Faso, John J."
+"Ferguson, A. Drew, IV"
+"Fitzpatrick, Brian K."
+"Fleischmann, Charles J. ""Chuck"""
+"Flores, Bill"
+"Fortenberry, Jeff"
+"Foster, Bill"
+"Foxx, Virginia"
+"Frankel, Lois"
+"Franks, Trent"
+"Frelinghuysen, Rodney P."
+"Fudge, Marcia L."
+"Gabbard, Tulsi"
+"Gaetz, Matt"
+"Gallagher, Mike"
+"Gallego, Ruben"
+"Garamendi, John"
+"Garrett, Thomas A., Jr."
+"Gianforte, Greg"
+"Gibbs, Bob"
+"Gohmert, Louie"
+"Gomez, Jimmy"
+"Gonzalez, Vicente"
+"González-Colón, Jenniffer"
+"Goodlatte, Bob"
+"Gosar, Paul A."
+"Gottheimer, Josh"
+"Gowdy, Trey"
+"Granger, Kay"
+"Graves, Garret"
+"Graves, Sam"
+"Graves, Tom"
+"Green, Al"
+"Green, Gene"
+"Griffith, H. Morgan"
+"Grijalva, Raúl M."
+"Grothman, Glenn"
+"Guthrie, Brett"
+"Gutiérrez, Luis V."
+"Hanabusa, Colleen"
+"Handel, Karen C."
+"Harper, Gregg"
+"Harris, Andy"
+"Hartzler, Vicky"
+"Hastings, Alcee L."
+"Heck, Denny"
+"Hensarling, Jeb"
+"Herrera Beutler, Jaime"
+"Hice, Jody B."
+"Higgins, Brian"
+"Higgins, Clay"
+"Hill, J. French"
+"Himes, James A."
+"Holding, George"
+"Hollingsworth, Trey"
+"Hoyer, Steny H."
+"Hudson, Richard"
+"Huffman, Jared"
+"Huizenga, Bill"
+"Hultgren, Randy"
+"Hunter, Duncan"
+"Hurd, Will"
+"Issa, Darrell E."
+"Jackson Lee, Sheila"
+"Jayapal, Pramila"
+"Jeffries, Hakeem S."
+"Jenkins, Evan H."
+"Jenkins, Lynn"
+"Johnson, Bill"
+"Johnson, Eddie Bernice"
+"Johnson, Henry C. ""Hank"", Jr."
+"Johnson, Mike"
+"Johnson, Sam"
+"Jones, Walter B."
+"Jordan, Jim"
+"Joyce, David P."
+"Kaptur, Marcy"
+"Katko, John"
+"Keating, William R."
+"Kelly, Mike"
+"Kelly, Robin L."
+"Kelly, Trent"
+"Kennedy, Joseph P., III"
+"Khanna, Ro"
+"Kihuen, Ruben J."
+"Kildee, Daniel T."
+"Kilmer, Derek"
+"Kind, Ron"
+"King, Peter T."
+"King, Steve"
+"Kinzinger, Adam"
+"Knight, Stephen"
+"Krishnamoorthi, Raja"
+"Kuster, Ann M."
+"Kustoff, David"
+"Labrador, Raúl R."
+"LaHood, Darin"
+"LaMalfa, Doug"
+"Lamborn, Doug"
+"Lance, Leonard"
+"Langevin, James R."
+"Larsen, Rick"
+"Larson, John B."
+"Latta, Robert E."
+"Lawrence, Brenda L."
+"Lawson, Al, Jr."
+"Lee, Barbara"
+"Levin, Sander M."
+"Lewis, Jason"
+"Lewis, John"
+"Lieu, Ted"
+"Lipinski, Daniel"
+"LoBiondo, Frank A."
+"Loebsack, David"
+"Lofgren, Zoe"
+"Long, Billy"
+"Loudermilk, Barry"
+"Love, Mia B."
+"Lowenthal, Alan S."
+"Lowey, Nita M."
+"Lucas, Frank D."
+"Luetkemeyer, Blaine"
+"Luján, Ben Ray"
+"Lujan Grisham, Michelle"
+"Lynch, Stephen F."
+"MacArthur, Thomas"
+"Maloney, Carolyn B."
+"Maloney, Sean Patrick"
+"Marchant, Kenny"
+"Marino, Tom"
+"Marshall, Roger W."
+"Massie, Thomas"
+"Mast, Brian J."
+"Matsui, Doris O."
+"McCarthy, Kevin"
+"McCaul, Michael T."
+"McClintock, Tom"
+"McCollum, Betty"
+"McEachin, A. Donald"
+"McGovern, James P."
+"McHenry, Patrick T."
+"McKinley, David B."
+"McMorris Rodgers, Cathy"
+"McNerney, Jerry"
+"McSally, Martha"
+"Meadows, Mark"
+"Meehan, Patrick"
+"Meeks, Gregory W."
+"Meng, Grace"
+"Messer, Luke"
+"Mitchell, Paul"
+"Moolenaar, John R."
+"Mooney, Alexander X."
+"Moore, Gwen"
+"Moulton, Seth"
+"Mullin, Markwayne"
+"Murphy, Stephanie N."
+"Nadler, Jerrold"
+"Napolitano, Grace F."
+"Neal, Richard E."
+"Newhouse, Dan"
+"Noem, Kristi L."
+"Nolan, Richard M."
+"Norcross, Donald"
+"Norman, Ralph"
+"Norton, Eleanor Holmes"
+"Nunes, Devin"
+"O'Halleran, Tom"
+"Olson, Pete"
+"O'Rourke, Beto"
+"Palazzo, Steven M."
+"Pallone, Frank, Jr."
+"Palmer, Gary J."
+"Panetta, Jimmy"
+"Pascrell, Bill, Jr."
+"Paulsen, Erik"
+"Payne, Donald M., Jr."
+"Pearce, Stevan"
+"Pelosi, Nancy"
+"Perlmutter, Ed"
+"Perry, Scott"
+"Peters, Scott H."
+"Peterson, Collin C."
+"Pingree, Chellie"
+"Pittenger, Robert"
+"Plaskett, Stacey E."
+"Pocan, Mark"
+"Poe, Ted"
+"Poliquin, Bruce"
+"Polis, Jared"
+"Posey, Bill"
+"Price, David E."
+"Quigley, Mike"
+"Radewagen, Aumua Amata Coleman"
+"Raskin, Jamie"
+"Ratcliffe, John"
+"Reed, Tom"
+"Reichert, David G."
+"Renacci, James B."
+"Rice, Kathleen M."
+"Rice, Tom"
+"Richmond, Cedric L."
+"Roby, Martha"
+"Roe, David P."
+"Rogers, Harold"
+"Rogers, Mike"
+"Rohrabacher, Dana"
+"Rokita, Todd"
+"Rooney, Francis"
+"Rooney, Thomas J."
+"Rosen, Jacky"
+"Roskam, Peter J."
+"Ros-Lehtinen, Ileana"
+"Ross, Dennis A."
+"Rothfus, Keith J."
+"Rouzer, David"
+"Roybal-Allard, Lucille"
+"Royce, Edward R."
+"Ruiz, Raul"
+"Ruppersberger, C. A. Dutch"
+"Rush, Bobby L."
+"Russell, Steve"
+"Rutherford, John H."
+"Ryan, Paul D."
+"Ryan, Tim"
+"Sablan, Gregorio Kilili Camacho"
+"Sánchez, Linda T."
+"Sanford, Mark"
+"Sarbanes, John P."
+"Scalise, Steve"
+"Schakowsky, Janice D."
+"Schiff, Adam B."
+"Schneider, Bradley Scott"
+"Schrader, Kurt"
+"Schweikert, David"
+"Scott, Austin"
+"Scott, David"
+"Scott, Robert C. ""Bobby"""
+"Sensenbrenner, F. James, Jr."
+"Serrano, José E."
+"Sessions, Pete"
+"Sewell, Terri A."
+"Shea-Porter, Carol"
+"Sherman, Brad"
+"Shimkus, John"
+"Shuster, Bill"
+"Simpson, Michael K."
+"Sinema, Kyrsten"
+"Sires, Albio"
+"Slaughter, Louise McIntosh"
+"Smith, Adam"
+"Smith, Adrian"
+"Smith, Christopher H."
+"Smith, Jason"
+"Smith, Lamar"
+"Smucker, Lloyd"
+"Soto, Darren"
+"Speier, Jackie"
+"Stefanik, Elise M."
+"Stewart, Chris"
+"Stivers, Steve"
+"Suozzi, Thomas R."
+"Swalwell, Eric"
+"Takano, Mark"
+"Taylor, Scott"
+"Tenney, Claudia"
+"Thompson, Bennie G."
+"Thompson, Glenn"
+"Thompson, Mike"
+"Thornberry, Mac"
+"Tiberi, Patrick J."
+"Tipton, Scott R."
+"Titus, Dina"
+"Tonko, Paul"
+"Torres, Norma J."
+"Trott, David A."
+"Tsongas, Niki"
+"Turner, Michael R."
+"Upton, Fred"
+"Valadao, David G."
+"Vargas, Juan"
+"Veasey, Marc A."
+"Vela, Filemon"
+"Velázquez, Nydia M."
+"Visclosky, Peter J."
+"Wagner, Ann"
+"Walberg, Tim"
+"Walden, Greg"
+"Walker, Mark"
+"Walorski, Jackie"
+"Walters, Mimi"
+"Walz, Timothy J."
+"Wasserman Schultz, Debbie"
+"Waters, Maxine"
+"Watson Coleman, Bonnie"
+"Weber, Randy K., Sr."
+"Webster, Daniel"
+"Welch, Peter"
+"Wenstrup, Brad R."
+"Westerman, Bruce"
+"Williams, Roger"
+"Wilson, Frederica S."
+"Wilson, Joe"
+"Wittman, Robert J."
+"Womack, Steve"
+"Woodall, Rob"
+"Yarmuth, John A."
+"Yoder, Kevin"
+"Yoho, Ted S."
+"Young, David"
+"Young, Don"
+"Zeldin, Lee M."
+
+Number of states: 56
+
+Biggest state: (CA,53)
+
+Number of at-large states: 7
+And they are:
+AK
+WY
+VT
+ND
+SD
+DE
+MT
+Number of roll calls with missing descriptions: 252
+ And they are:
+001
+002
+012
+013
+014
+015
+016
+017
+018
+019
+020
+021
+028
+029
+030
+035
+036
+037
+038
+039
+040
+041
+042
+043
+046
+047
+048
+049
+052
+057
+101
+105
+106
+107
+108
+109
+110
+111
+112
+117
+118
+122
+123
+124
+128
+132
+134
+135
+137
+140
+141
+142
+143
+144
+145
+146
+149
+150
+153
+154
+155
+156
+161
+164
+165
+166
+170
+172
+182
+190
+194
+201
+219
+226
+228
+232
+234
+245
+251
+254
+261
+267
+274
+279
+280
+283
+292
+293
+295
+296
+297
+298
+304
+311
+314
+318
+320
+321
+327
+333
+334
+335
+350
+353
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+385
+386
+387
+388
+389
+392
+395
+396
+399
+400
+404
+405
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+428
+429
+430
+431
+432
+433
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+481
+482
+483
+484
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+518
+519
+520
+521
+522
+523
+524
+525
+526
+534
+535
+553
+554
+555
+556
+571
+575
+576
+577
+578
+579
+584
+585
+586
+587
+594
+595
+596
+609
+612
+619
+625
+628
+
+What kind of votes can members cast?
+Not Voting: 9096
+Pelosi: 189
+Cooper: 1
+Nay: 34497
+Ryan (OH): 2
+Aye: 72005
+Present: 503
+No: 71274
+Lewis (GA): 1
+Yea: 84579
+Webster (FL): 1
+Ryan (WI): 239
