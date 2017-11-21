@@ -3,11 +3,9 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 object Profiler {
 
-  def main(args: Array[String]): Unit = {
+  def main1(args: Array[String]): Unit = {
     val donationsCSVFilePath = args(0)
-
-
-
+    val outputPath = args(1)
 
     val fileWriter = new PrintWriter(new File(outputPath))
 
